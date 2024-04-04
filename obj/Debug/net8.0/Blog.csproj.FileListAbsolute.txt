@@ -1,0 +1,14 @@
+h:\Balta\Blog\bin\Debug\net8.0\Blog.exe
+h:\Balta\Blog\bin\Debug\net8.0\Blog.deps.json
+h:\Balta\Blog\bin\Debug\net8.0\Blog.runtimeconfig.json
+h:\Balta\Blog\bin\Debug\net8.0\Blog.dll
+h:\Balta\Blog\bin\Debug\net8.0\Blog.pdb
+h:\Balta\Blog\obj\Debug\net8.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+h:\Balta\Blog\obj\Debug\net8.0\Blog.AssemblyInfoInputs.cache
+h:\Balta\Blog\obj\Debug\net8.0\Blog.AssemblyInfo.cs
+h:\Balta\Blog\obj\Debug\net8.0\Blog.csproj.CoreCompileInputs.cache
+h:\Balta\Blog\obj\Debug\net8.0\Blog.dll
+h:\Balta\Blog\obj\Debug\net8.0\refint\Blog.dll
+h:\Balta\Blog\obj\Debug\net8.0\Blog.pdb
+h:\Balta\Blog\obj\Debug\net8.0\Blog.genruntimeconfig.cache
+h:\Balta\Blog\obj\Debug\net8.0\ref\Blog.dll

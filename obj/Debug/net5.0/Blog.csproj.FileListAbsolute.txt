@@ -1,0 +1,5 @@
+H:\Balta\Blog\obj\Debug\net5.0\Blog.csproj.AssemblyReference.cache
+H:\Balta\Blog\obj\Debug\net5.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+H:\Balta\Blog\obj\Debug\net5.0\Blog.AssemblyInfoInputs.cache
+H:\Balta\Blog\obj\Debug\net5.0\Blog.AssemblyInfo.cs
+H:\Balta\Blog\obj\Debug\net5.0\Blog.csproj.CoreCompileInputs.cache
